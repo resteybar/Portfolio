@@ -12,11 +12,3 @@
 | <a href="https://github.com/resteybar" target="_blank">`@resteybar`</a> |
 
 ---
-
-## Social Media
-
-See Lynette's Skin Studio's website, customer results on Facebook, or even read customer reviews on their Yelp!
-
-- Website at <a href="" target="_blank">`Not Available`</a>
-- Facebook at <a href="https://www.facebook.com/LynetteSkinStudio/" target="_blank">`@LynetteSkinStudio`</a>
-- Yelp at <a href="https://www.yelp.com/biz/lynettes-skin-studio-marina" target="_blank">`Lynette's Skin Studio`</a>
