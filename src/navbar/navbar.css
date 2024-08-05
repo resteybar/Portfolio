@@ -1,0 +1,31 @@
+.NavBar {
+    height: 100%; /* 100% Full-height */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Stay on top */
+    top: 0; /* Stay at the top */
+    left: 0;
+    overflow-x: hidden; /* Disable horizontal scroll */
+    transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+    
+    /* Converts Nav. Bar to be in a Column */
+    display: flex;
+    flex-direction: column;
+}
+
+.NavBar a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    transition: 0.3s;
+}
+
+.NavBar a:hover {
+    color: yellow;
+}
+
+/* For Smaller Screens */
+/* @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+} */

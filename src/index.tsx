@@ -7,12 +7,14 @@ import reportWebVitals from './reportWebVitals';
 import Intro from './intro/intro'
 import About from './about/about'
 import Experience from './experience/experience'
+import NavBar from './navbar/navbar'
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
 root.render(
   <React.StrictMode>
+    <NavBar />
     <App />
     <Intro />
     <About />
