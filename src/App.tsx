@@ -2,6 +2,7 @@ import React from 'react';
 import avatar from './images/avatar.png';
 import './App.css';
 
+// Logo
 function App() {
   return (
     <div className="App">
